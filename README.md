@@ -1,6 +1,6 @@
 ### Hi there wave i'm Kostya
 
-About Myself:
+### About Myself:
 
 I'm a Python developer with experience building web applications using Django and Django REST Framework, Flask, FastAPI using PostgreSQL, MySQL to work with databases. I'm also proficient in version control tools like GIT and know how to use Docker to deploy applications in containers
 
@@ -8,7 +8,7 @@ I have commercial experience as a product manager in the bank section.
 
 I possess good communication and teamwork skills, as well as a willingness to adapt to new tasks and projects. I am always willing to learn and improve my skills.
 
-Skills:
+### Skills:
 
 Python 3.9+ & OOP
 
@@ -34,6 +34,6 @@ Networking & Security: HTTP, SSL/TLS, JWT
 
 Tools: Git, GitHub, Debugger, Pytest
 
-Experience:
+### Experience:
 
 Head of Product and Process Development Department in banks (2007 - 2022)
