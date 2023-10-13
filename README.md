@@ -1,4 +1,4 @@
-### Hi there wave i'm Kostya
+### Hi there wave i'm Kostiantyn
 
 ### About Myself:
 
